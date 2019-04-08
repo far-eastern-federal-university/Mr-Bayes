@@ -1,1 +1,3 @@
 # Mr-Bayes
+
+Bayes classifiers
